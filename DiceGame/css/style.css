@@ -1,0 +1,15 @@
+body {
+  background-color: #148414;
+}
+
+.my-font {
+  font-size: 75px;
+  color: goldenrod;
+}
+.bi {
+  font-size: 15rem;
+}
+
+.dice-label {
+  margin-bottom: -2rem;
+}
